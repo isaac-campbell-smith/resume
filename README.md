@@ -56,12 +56,12 @@
 
 
 **Languages**: </br>
- * Python, C++, SQL, Javascript ES6
+ * Python, SQL
 
 **Frameworks/Libraries**: </br>
- * ReactJS, Django, Flask, Pandas, NumPy, SciPy, Tensorflow, PySpark, AWS EC2 | S3 | ECS, Selenium, NLTK, Docker
+ * Pandas, NumPy, SciPy, Tensorflow, PySpark, AWS EC2 | S3 | ECS | RDS, Selenium, NLTK, Docker, Tableau, Excel
 
-**Skills**: </br>
+**Conceptual**: </br>
  * NLP, Bayesian and Frequentist Modeling, Statistical Analysis, Data Modeling, Regression - Classification - Clustering, Sequence Modeling, A/B Testing
  
 <br/>
@@ -70,7 +70,7 @@
 
 <div>
   
- **Data Analyst Consulting | Leafly**
+ **Data Analyst Consultant | Leafly**
   
   > July 2020 - Present,  Seattle, WA 
   
@@ -85,12 +85,11 @@
   > July 2020 - Present,  Seattle, WA 
   
   <ul>
-  	<li> Wrote Python scripts to source  </li>
-    <li> Set up AWS SQL database  </li>
-    <li> Proposed several useful content and format changes be made based on past and current trends and collaborated with social media producer for listener survey about recent downturn in listenership  </li>
+  	<li> Wrote Python scripts to source user data stored on multiple AWS S3 buckets and write to AWS SQL server</li>
+    <li> Collaborating with stakeholders to write queries for identifying optimal target audiences for new independent movie marketing campaigns </li>
   </ul>
 
-   **Vision Zero 2030: Seattle Traffic Collisions Data Analysis
+   **Vision Zero 2030: Seattle Traffic Collisions Data Analysis**
   
   > July 2020 - September 2020,  Seattle, WA
   
@@ -106,13 +105,43 @@
 
 </br>
 
+## <ins>Project Management</ins>
 
+ **Construction Production Manager | York Enterprises**
+  
+  > 2017 - 2019,  Tacoma, WA 
+  
+  <ul>
+  	<li> Managed 20 employees, client meetings, and improved company permit issuance rates leading to record-breaking positive customer satisfaction survey </li>
+    <li> Performed market research on Google Analytics to validate necessary re-branding of language which lead to website SEO improvements from 3rd page to #1 search result on Google locally  </li>
+  </ul>
+  
+ **Events & Marketing | Kamalaya Koh Samui**
+  
+  > 2014 - 2017,  Thailand
+  
+  <ul>
+  	<li> Overhauled the monthly newsletter design and delivery which increased inbox delivery rates by 50 %  </li>
+    <li> Coordinated with key stakeholders to implement resort's retreat package launch, the hotel events programming and high-performing marketing content  </li>
+  </ul>
+  
 
 ## <ins>Applications</ins>
 
+[**Bay Wheels**](https://github.com/isaac-campbell-smith/baywheels)
+
+> Visual Data Analysis of SanFranscisco's Bike Sharing App </br>
+
+ -   Utilized Matplotlib to highlight key differences in trip activity between rider groups: subscribers vs casual, weekend vs weekday on over 5 million rows of data </br>
+- Leveraged storytelling and data visualization to offer meaningful sales and market insights as it pertained to business needs </br>
+- Created multiple Tableau Dashboards to geographically model trip activity from hour to hour and provide an interactive data experience </br>
+
+
+Technology Stack: Python | Matplotlib | NumPy | Pandas | SciKitLearn | CatBoost | XGBoost | LightGBM
+
 [**Pokestars**](https://github.com/isaac-campbell-smith/pokestars)
 
-> Visualizing Competitive Pokemon Battles </br>
+> Visualizing 6 Years of Competitive Pokemon Battles </br>
 
  - Utilized BeautifulSoup to mine over 6 years of battling statistics  </br>
  - Built and stored PostgreSQL database on AWS to model an ETL analytics workflow  </br>
@@ -120,7 +149,7 @@
  - Used the database as part of the bi-weekly 'Wine & SQL Night' remote meet-up that I organize to teach advanced functions and techniques</br>
 
 Technology Stack: 
-Psycopg2 | Beautiful Soup | AWS (RDS)
+Psycopg2 | Beautiful Soup | AWS (RDS) | Tableau
 
 
 [**Comedy of Errors**](https://github.com/isaac-campbell-smith/comedy_of_errors)
@@ -138,8 +167,7 @@ Technology Stack: Selenium | BeautifulSoup | NLTK | SciKitLearn | Flask | AWS (E
 
 > Implemented 6 different fraud prediction algorithms on credit card trasaction data from 3 Python libraries nd compared their relative business efficacy </br>
 
- -  Explored various mathematical and one-hot-encoding transformations for feature engineering to improve scoring metrics with cost-benefit analysis of runtime vs results 
-</br>
+ -  Explored various mathematical and one-hot-encoding transformations for feature engineering to improve scoring metrics with cost-benefit analysis of runtime vs results </br>
 - Detailed analysis of optimal Precision vs Recalll ratios in different business scenarios </br>
 
 
@@ -167,11 +195,7 @@ Technology Stack: Python | Matplotlib | NumPy | Pandas | SciKitLearn | CatBoost 
   **Bachelor of Arts | Lewis & Clark College**
   
   > 2010 - 2014,  Portland
-  
-  * ECEGR 1000 - Computing for Engineers
-    * Algorithm design, implementation, testing and documentation, control structures, and data types 
-  * CPSC 1230 - Programming and Data Types
-    * Abstract data types (ADTs), dynamic memory, linked lists, stacks, queues, and testing in C++ 
+
     
 </div>
 
