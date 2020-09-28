@@ -1,2 +1,184 @@
-# resume
-Professional Resume
+<!-- Heading Section -->
+<div id="header" align="center">
+  <h1> Isaac Campbell-Smith </h1>
+</div>
+
+
+<div id="contact" align="center">
+  <!--   GitHub Link -->
+  <a href='https://github.com/isaac-campbell-smith' target="_blank">
+    <img src='https://img.shields.io/badge/GitHub-isaac--campbell--smith-black?style=flat-square' />
+  </a>
+  <!-- LinkedIn Contact -->
+  <a href="https://www.linkedin.com/in/isaac-campbell-smith/" target="_blank">
+    <img src="https://img.shields.io/badge/-Isaac%20Campbell--Smith-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  
+  <!-- Cell -->
+  <a href="tel:2533064338">
+    <img src="https://img.shields.io/badge/CELL-253--306--4338-yellow?style=flat-square">
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:icampsmith@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-icampsmith%40gmail.com-brightgreen?style=flat-square"/>
+  </a>
+</div>
+
+
+---
+
+<!-- Table of Contents Section -->
+
+<div id="sections">
+  <h2> Sections </h2>
+  <a href="#technical-skills"> - Technical Skills </a>
+  <br/>
+  <a href="#data-science-and-analytics"> - Data Science Experience </a>
+  <br />
+  <a href="#project-management"> - Project Management Experience </a>
+  <br />
+  <a href="#applications"> - Applications </a>
+  <br />
+  <a href="#education"> - Education </a>
+  <br />
+  
+
+  
+</div>
+
+---
+
+
+</br>
+
+## <ins>Technical Skills</ins>
+
+
+**Languages**: </br>
+ * Python, C++, SQL, Javascript ES6
+
+**Frameworks/Libraries**: </br>
+ * ReactJS, Django, Flask, Pandas, NumPy, SciPy, Tensorflow, PySpark, AWS EC2 | S3 | ECS, Selenium, NLTK, Docker
+
+**Skills**: </br>
+ * NLP, Bayesian and Frequentist Modeling, Statistical Analysis, Data Modeling, Regression - Classification - Clustering, Sequence Modeling, A/B Testing
+ 
+<br/>
+
+## <ins>Data Science and Analytics</ins>
+
+<div>
+  
+ **Data Analyst Consulting | Leafly**
+  
+  > July 2020 - Present,  Seattle, WA 
+  
+  <ul>
+  	<li> Wrote Python scraping scripts to gather higher quality data than what is readily available through Libsyn platform </li>
+    <li> Built PyMC3 models to identify likely changes in when listenership significantly increased and decreased </li>
+    <li> Proposed several useful content and format changes be made based on past and current trends and collaborated with social media producer for listener survey about recent downturn in listenership  </li>
+  </ul>
+
+ **Database Engineer | Fuel & Ox**
+  
+  > July 2020 - Present,  Seattle, WA 
+  
+  <ul>
+  	<li> Wrote Python scripts to source  </li>
+    <li> Set up AWS SQL database  </li>
+    <li> Proposed several useful content and format changes be made based on past and current trends and collaborated with social media producer for listener survey about recent downturn in listenership  </li>
+  </ul>
+
+   **Vision Zero 2030: Seattle Traffic Collisions Data Analysis
+  
+  > July 2020 - September 2020,  Seattle, WA
+  
+  <ul>
+    <li> Collaborated with 4 data scientists seeking to identify road features associated with higher rates of collisions order to make impactful reccomendations to the City of Seattle's 'Vision Zero 2030' project  </li>
+    <li> Joined data sourced from multiple dataframes to visualize collision rates and feature variance on each street using Matplotlib and Pandas </li>
+    <li> Used Machine Learning modelling to suggest that traffic circles have no bearing on collision rates in Seattle and found evidence to support SDOT's plan to reduce speed limits city-wide  </li>
+    <li> Presented findings as part of public event </li>
+  </ul>
+
+</div>
+
+
+</br>
+
+
+
+## <ins>Applications</ins>
+
+[**Pokestars**](https://github.com/isaac-campbell-smith/pokestars)
+
+> Visualizing Competitive Pokemon Battles </br>
+
+ - Utilized BeautifulSoup to mine over 6 years of battling statistics  </br>
+ - Built and stored PostgreSQL database on AWS to model an ETL analytics workflow  </br>
+ - Creating monthly Tableau Dashboards to visualize the state of the metagame </br>
+ - Used the database as part of the bi-weekly 'Wine & SQL Night' remote meet-up that I organize to teach advanced functions and techniques</br>
+
+Technology Stack: 
+Psycopg2 | Beautiful Soup | AWS (RDS)
+
+
+[**Comedy of Errors**](https://github.com/isaac-campbell-smith/comedy_of_errors)
+
+> A recommender engine designed to improve stand-up comedy recommendations using natural language processing</br>
+
+- Utilized BeautifulSoup and Selenium to scrape transcripts and IMDB reviews  </br>
+- Performed multiple NMF and KMeans clustering transformations to better categorize comedy specials by genre </br>
+- Deployed recommender web app using Flask and AWS  </br>
+
+Technology Stack: Selenium | BeautifulSoup | NLTK | SciKitLearn | Flask | AWS (EC2) 
+
+
+[**Bernoulli Trials & Tribulations**](https://github.com/isaac-campbell-smith/BernoulliTrials_and_Tribulations)
+
+> Implemented 6 different fraud prediction algorithms on credit card trasaction data from 3 Python libraries nd compared their relative business efficacy </br>
+
+ -  Explored various mathematical and one-hot-encoding transformations for feature engineering to improve scoring metrics with cost-benefit analysis of runtime vs results 
+</br>
+- Detailed analysis of optimal Precision vs Recalll ratios in different business scenarios </br>
+
+
+Technology Stack: Python | Matplotlib | NumPy | Pandas | SciKitLearn | CatBoost | XGBoost | LightGBM </br>
+
+
+
+</br>
+
+
+
+## <ins>Education</ins>
+
+<div>
+  
+  **Data Science Advanced Certificate | Galvanize**
+  
+  > 2020,  Seattle
+  
+  * 13 week immersive with 700+ hours of coding, weekly Case Studies, and 3 capstones
+  * Python-based curriculum focused on machine learning and best practices in statistical analysis, including frequentist and Bayesian methods
+  * Utilizes regression, classification and clustering to model real-world structured and unstructured data 
+  * Explores NLP and Deep Learning techniques, in addition to Spark on AWS
+
+  **Bachelor of Arts | Lewis & Clark College**
+  
+  > 2010 - 2014,  Portland
+  
+  * ECEGR 1000 - Computing for Engineers
+    * Algorithm design, implementation, testing and documentation, control structures, and data types 
+  * CPSC 1230 - Programming and Data Types
+    * Abstract data types (ADTs), dynamic memory, linked lists, stacks, queues, and testing in C++ 
+    
+</div>
+
+
+
+
+
+
+
+
