@@ -70,6 +70,16 @@
 
 <div>
   
+ **Data Scientist | AAK Tele-Sciences**
+  
+  > November 2020 - Present,  Remote
+  
+  <ul>
+  	<li> Designed, tested & implemented api's to search and store scientific researcher profile information </li>
+    <li> Worked with Apache Solr query language to build US Patent dataset </li>
+    <li> Collaborated with Front-End team to integrate data pipeline into website user profiles  </li>
+  </ul>
+  
  **Data Analyst Consultant | Leafly**
   
   > July 2020 - Present,  Seattle, WA 
@@ -82,7 +92,7 @@
 
  **Database Engineer | Fuel & Ox**
   
-  > July 2020 - Present,  Seattle, WA 
+  > July 2020 - November 2020,  Seattle, WA 
   
   <ul>
   	<li> Wrote Python scripts to source user data stored on multiple AWS S3 buckets and write to AWS SQL server</li>
