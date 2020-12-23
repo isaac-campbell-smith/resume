@@ -75,9 +75,9 @@
   > November 2020 - Present,  Remote
   
   <ul>
-  	<li> Designed, tested & implemented api's to search and store scientific researcher profile information </li>
-    <li> Worked with Apache Solr query language to build US Patent dataset </li>
-    <li> Collaborated with Front-End team to integrate data pipeline into website user profiles  </li>
+  	<li> Designed, tested & implemented Python APIs to search and store scientific researcher profile information for patented inventions, academic papers & SEC filings </li>
+    <li> Worked with Apache Solr query language to build US Patent SQL database on company’s server </li>
+    <li> Collaborated with Front-End team to integrate data pipeline into website user profiles within AWS   </li>
   </ul>
   
  **Data Analyst Consultant | Leafly**
@@ -138,17 +138,6 @@
 
 ## <ins>Applications</ins>
 
-[**Bay Wheels**](https://github.com/isaac-campbell-smith/baywheels)
-
-> Visual Data Analysis of SanFranscisco's Bike Sharing App </br>
-
- -   Utilized Matplotlib to highlight key differences in trip activity between rider groups: subscribers vs casual, weekend vs weekday on over 5 million rows of data </br>
-- Leveraged storytelling and data visualization to offer meaningful sales and market insights as it pertained to business needs </br>
-- Created multiple Tableau Dashboards to geographically model trip activity from hour to hour and provide an interactive data experience </br>
-
-
-Technology Stack: Python | Matplotlib | NumPy | Pandas | SciKitLearn | CatBoost | XGBoost | LightGBM
-
 [**Pokestars**](https://github.com/isaac-campbell-smith/pokestars)
 
 > Visualizing 6 Years of Competitive Pokemon Battles </br>
@@ -161,6 +150,18 @@ Technology Stack: Python | Matplotlib | NumPy | Pandas | SciKitLearn | CatBoost 
 Technology Stack: 
 Psycopg2 | Beautiful Soup | AWS (RDS) | Tableau
 
+[**Martyr Politics**](https://github.com/isaac-campbell-smith/datathon)
+
+> First Place entry for Galvanize Data Science 2020 Competition  </br>
+
+-  Introduced Sentiment Analysis and Machine Learning to answer whether Trump’s Covid-19 diagnosis benefitted him politically </br>
+-  Delivered custom Python Class to load, transform and clean Twitter dataset from 2gb JSONL file to Pandas DataFrame object based on features relevant to the ‘business question’ </br>
+-  Designed and interpreted results of T-Test on compound sentiment scores from VADER model to determine increased average sentiment for Trump did not benefit his campaign </br>
+-  Prepared video presentation of repository, resulting in winning first place </br>
+
+
+Technology Stack: 
+Python | VADER | ScikitLearn | Tableau | AWS EC2
 
 [**Comedy of Errors**](https://github.com/isaac-campbell-smith/comedy_of_errors)
 
@@ -173,12 +174,7 @@ Psycopg2 | Beautiful Soup | AWS (RDS) | Tableau
 Technology Stack: Selenium | BeautifulSoup | NLTK | SciKitLearn | Flask | AWS (EC2) 
 
 
-[**Bernoulli Trials & Tribulations**](https://github.com/isaac-campbell-smith/BernoulliTrials_and_Tribulations)
 
-> Implemented 6 different fraud prediction algorithms on credit card trasaction data from 3 Python libraries nd compared their relative business efficacy </br>
-
- -  Explored various mathematical and one-hot-encoding transformations for feature engineering to improve scoring metrics with cost-benefit analysis of runtime vs results </br>
-- Detailed analysis of optimal Precision vs Recalll ratios in different business scenarios </br>
 
 
 Technology Stack: Python | Matplotlib | NumPy | Pandas | SciKitLearn | CatBoost | XGBoost | LightGBM </br>
