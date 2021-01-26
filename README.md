@@ -83,11 +83,12 @@
  **Data Analyst Consultant | Leafly**
   
   > July 2020 - Present,  Seattle, WA 
-  
+
   <ul>
-  	<li> Wrote Python scraping scripts to gather higher quality data than what is readily available through Libsyn platform </li>
-    <li> Built PyMC3 models to identify likely changes in when listenership significantly increased and decreased </li>
+  	<li> Built Tableau dashboards and statistical models to identify significant changes & trends in listenership for non-technical audience </li>
+    <li> Wrote Python scripts to transfer streaming data stored on multiple AWS S3 and to SQL Database </li>
     <li> Proposed several useful content and format changes be made based on past and current trends and collaborated with social media producer for listener survey about recent downturn in listenership  </li>
+    <li> Proposed several content and format changes based on data insights, resulting in increased downloads • Collaborated with social media producer to develop new KPIs </li>
   </ul>
 
  **Database Engineer | Fuel & Ox**
@@ -124,15 +125,19 @@
   <ul>
   	<li> Managed 20 employees, client meetings, and improved company permit issuance rates leading to record-breaking positive customer satisfaction survey </li>
     <li> Performed market research on Google Analytics to validate necessary re-branding of language which lead to website SEO improvements from 3rd page to #1 search result on Google locally  </li>
+    <li> Reviewed contracts, cost proposals and served as point-of-contact for all subcontractors & suppliers </li>
+    <li> Prepared quarterly budget reports using Excel & Salesforce, Gantt charts for tracking project timelines  </li>
+    <li> Managed inventory and truck fleet and developed automated checkout processes  </li>
   </ul>
-  
+
  **Events & Marketing | Kamalaya Koh Samui**
   
   > 2014 - 2017,  Thailand
   
   <ul>
-  	<li> Overhauled the monthly newsletter design and delivery which increased inbox delivery rates by 50 %  </li>
-    <li> Coordinated with key stakeholders to implement resort's retreat package launch, the hotel events programming and high-performing marketing content  </li>
+  	<li> Managed CRM technologies and implemented new customer segments which increased email inbox open rates by 50 %  </li>
+    <li> Researched and produced B2B marketing videos and pamphlets to recruit international event partners in the UK, Singapore, Germany, Hong Kong and Australia</li>
+  <li> Coordinated with multiple departments to deliver resort's retreat packages, hotel events program and high-performing marketing content</li>
   </ul>
   
 
