@@ -75,9 +75,11 @@
   > November 2020 - Present,  Remote
   
   <ul>
-  	<li> Designed, tested & implemented Python APIs to search and store scientific researcher profile information for patented inventions, academic papers & SEC filings </li>
-    <li> Worked with Apache Solr query language to build US Patent SQL database on company’s server </li>
-    <li> Collaborated with Front-End team to integrate data pipeline into website user profiles within AWS   </li>
+  	<li> Designed, tested & integrated Python APIs to search and store scientific researcher profile information for patented inventions, academic papers & SEC filings </li>
+    <li> Worked with batch streaming data and Apache query engines to analyze & build SQL Patents database </li>
+    <li> Collaborated with Front-End team to integrate data pipeline into website user profiles within FastAPI & Unicorn framework  </li>
+    <li> Implemented Spark parallel ETL processes to greatly reduce runtime of existing pure Python scripts </li>
+    <li> Managed team of 4 data engineers and set up code reviews, testing, and database integrity checks  </li>
   </ul>
   
  **Data Analyst Consultant | Leafly**
